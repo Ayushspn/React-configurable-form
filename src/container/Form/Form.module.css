@@ -1,7 +1,25 @@
 .MandatoryFields {
     color : red;
 }
+.configErrrAlert {
+    color: #f44336;
+    
+  }
 
-.border{
-    border : 1px solid gray;
+.configLable {
+    min-width: 100px;
+    display: inline-block;
+}
+
+.configForm {
+    max-width: 30rem;
+    margin: 0 auto;
+}
+
+.configFormElement {
+    margin: 10px;
+}
+
+.configSubmitBtn {
+    margin: 10px;
 }
